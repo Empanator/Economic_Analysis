@@ -1,2 +1,1 @@
-# Economics
-Series of notebooks about the topic 
+# Series of notebooks about economics topic 
